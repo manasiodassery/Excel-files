@@ -1,2 +1,3 @@
 # Excel-files
-All the excel assignments
+
+The repository contains an Excel workbook related to a specific assignment.
